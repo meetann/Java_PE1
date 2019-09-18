@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62996d50-3a09-4a03-9e9f-c0452729f1ff" name="Default Changelist" comment="" />
+    <list default="true" id="62996d50-3a09-4a03-9e9f-c0452729f1ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/dnf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise1/q9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dnf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dnf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q9.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QuxcyEMza77w1dOhwoplgtFxI0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -47,5 +90,16 @@
       <updated>1568634365026</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
